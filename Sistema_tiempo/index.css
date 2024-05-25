@@ -76,3 +76,8 @@ tr:hover {
 footer p {
     margin: 0;
 }
+
+.table h1{
+    justify-content: center;
+    text-align: center;
+}
